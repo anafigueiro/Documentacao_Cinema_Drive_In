@@ -2,4 +2,4 @@
 
 Cinema Drive-in
 
-![Imagem diagrama de caso de uso](https://stackblitz.com/storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMUxsQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--80845f4e1bcbfa219dce431483cc4e93902aab61/diagrama.png)
+![Imagem diagrama de caso de uso](https://stackblitz.com/files/vite-763ztd/github/anafigueiro/documentacao-cinemadrivein/main/docs/.vitepress/imagens/diagrama.png)
