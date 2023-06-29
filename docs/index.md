@@ -12,5 +12,5 @@ hero:
       link: /principal
     - theme: alt
       text: Acesse o Git Hub
-      link: https://github.com/anafigueiro/Documentacao-Cinema_Oficial.git
+      link: https://github.com/anafigueiro/documentacao-cinemadrivein.git
 ---
